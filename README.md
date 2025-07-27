@@ -79,9 +79,9 @@ Matrix A:           Matrix B:
 Both implementations should produce the same result:
 ```
 Result Matrix C:
-34 68 102
-17 34 51
-51 102 153
+28 56 84
+14 28 42
+42 84 126
 ```
 
 ## 🧵 Threading Approach
